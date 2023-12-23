@@ -13,7 +13,7 @@ Terdapat Fitur Crud diantaranya :
 -Hapus Data Task
 -View all task
 
-## Cara instalasi Project Employee Management
+## Cara instalasi Project Todo list
 1. Saat ini saya menggunakan Nodejs versi v16.12.0.
 2. Clone repository dari `https://github.com/yabiyabi127/Test-FE-Kakkoku/tree/master`
 3. Setelah clone selesai buka direktorynya lalu buka di Vscode
